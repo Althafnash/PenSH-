@@ -1,4 +1,4 @@
-# PenTesyShell
+# PenTestShell
 
 PenTesyShell is a simple shell script designed to automate certain tasks. Below is a brief overview of its functionality and usage.
 
